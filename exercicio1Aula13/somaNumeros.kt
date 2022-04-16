@@ -1,6 +1,6 @@
 package exercicio1Aula13
 
-fun somaNumeros (vetorDeNumeros: IntArray, soma: Int) : Int {
+fun somaNumeros () : Int {
     var vetorDeNumeros = IntArray(5)
     var soma = 0
 
