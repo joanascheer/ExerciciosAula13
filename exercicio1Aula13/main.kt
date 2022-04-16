@@ -2,7 +2,7 @@ package exercicio1Aula13
 
 fun main() {
 
-    somaDosNumeros(vetorDeNumeros = IntArray(5), soma = 0)
+    somaDosNumeros()
 
 }
 
