@@ -2,11 +2,7 @@ package exercicio1Aula13
 
 fun main() {
 
-    var vetorDeNumeros = IntArray(5)
-    var soma = 0
-
-    somaNumeros(vetorDeNumeros, soma)
-    mostraSomaNumeros(soma)
+    somaDosNumeros(vetorDeNumeros = IntArray(5), soma = 0)
 
 }
 
